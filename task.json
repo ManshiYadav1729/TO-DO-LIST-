@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Complete DBMS Assignment",
+        "description": "Finish ER diagram and normalization part",
+        "category": "Work",
+        "completed": false,
+        "important": true
+    },
+    {
+        "title": "Buy Groceries",
+        "description": "Milk, bread, eggs, and vegetables",
+        "category": "Personal",
+        "completed": true,
+        "important": false
+    },
+    {
+        "title": "Prepare for Coding Test",
+        "description": "Practice DSA problems from LeetCode",
+        "category": "Work",
+        "completed": false,
+        "important": true
+    },
+    {
+        "title": "Call Friend",
+        "description": "Wish happy birthday to Ananya",
+        "category": "Personal",
+        "completed": false,
+        "important": false
+    },
+    {
+        "title": "Project Submission",
+        "description": "Upload Smart India Hackathon project report",
+        "category": "Urgent",
+        "completed": false,
+        "important": true
+    }
+]
